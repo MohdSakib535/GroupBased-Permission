@@ -1,0 +1,4 @@
+
+­python:S101"dRename class "customUser" to match the regular expression ^_?([A-Z_][a-zA-Z0-9]*|[a-z_][a-z0-9_]*)$.(ËæÞ¦øÿÿÿÿ8—«Éäš2J$42a042a5-e668-43db-b9af-41a69a0a44a3
+python:S14812"5Replace the unused local variable "created" with "_".(ï§ôÍùÿÿÿÿ8—«Éäš2J$49b5c54e-cfab-4777-9046-950e878f5c5e
+cpython:S125B"Remove this commented out code.(¹³â¤8—«Éäš2J$58d99ce8-6f77-46c1-8045-da3fad69a5c6

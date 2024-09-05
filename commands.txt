@@ -1,0 +1,7 @@
+after setup  and  migrate
+first is to run management command
+     python manage.py create_groups
+
+then create user as per payload
+
+
